@@ -1,3 +1,3 @@
-# DesignMe Develop
+# DesignMe
 
-このリポジトリはGitHub Organizationのプロフィール画面を編集するリポジトリです。
+いろんなUIデザイン、フロントエンド関連技術を試す
